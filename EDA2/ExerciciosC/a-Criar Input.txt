@@ -1,0 +1,1 @@
+./nome-do-executável < teste1.in | diff -u teste1.out -
